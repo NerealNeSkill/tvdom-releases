@@ -1,0 +1,1 @@
+# TV Дом: one line per licensed TV (a hash of its code). Added with tools/license.py.
